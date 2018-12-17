@@ -1,9 +1,12 @@
 # INFO2302
 
 ## GROUP AIA
+
 *SARANGHAE STREET FOOD*
 
 Saranghae street food is a website for korean food lovers based in Johor Bahru, Malaysia.
+
+
                                          
                                            Group Contribution
             Name                                                              Contribution
@@ -43,3 +46,8 @@ a website for high quality stock photos.
 2. https://www.pexels.com/search/food/
 3. https://developers.google.com/maps/documentation/
 4. https://www.google.com.my/  (instagram gif, facebook gif, twitter gif, telephone gif)
+
+### Group Members
+1. Nur Iffah Liyana Bt Enche Muhammad Azmi 1714384
+2. Wan Nur Athirah Bt Wan Zakaria 1719556
+3. Nuraini Bt Selamat 1714772
